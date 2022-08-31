@@ -1,0 +1,72 @@
+.gs-schedule {
+    margin-top: 86px;
+    margin-left: 260px;
+    width: 100%;
+}
+
+.today-card {
+    width: 100% !important;
+    background-color: #D3E0EA !important;
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+}
+
+.today-title {
+    margin-right: 10px;
+}
+
+.today-trip {
+    background-color: #D3E0EA !important;
+    /* color: #276678; */
+    margin-bottom: 10px;
+}
+
+.today-transport-mode {
+    margin: 0;
+}
+
+.today-icon {
+    color: #464646;
+}
+
+.today-vehicle-number {
+    margin-left: 10px;
+    color: #464646;
+}
+
+.today-food {
+    color: #464646;
+}
+
+.today-members {
+    color: #464646;
+    margin-right: 15px;
+}
+
+.upcoming-card {
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px !important;
+    border-radius: 5px;
+}
+
+.upcoming-trip {
+    background-color: white !important;
+    margin-bottom: 10px;
+}
+
+.calendar-container {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}

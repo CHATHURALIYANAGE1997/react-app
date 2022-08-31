@@ -1,0 +1,51 @@
+.et_mainDiv {
+    /* background-color: bisque; */
+    width: 30%;
+    margin: 0 auto;
+
+}
+.input-group>.form-floating:not(:first-child)>.form-control, .input-group>.form-floating:not(:first-child)>.form-select, .input-group>:not(:first-child):not(.dropdown-menu):not(.form-floating):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    background-color: aquamarine;
+    border-top: 1px solid black;
+
+}
+.btnEdit, .btnConfirm {
+    width: 50% !important;
+
+}
+.nameLabel, .locationLabel, .crowdLabel, .dateLabel, .packageLabel, .activityLabel {
+    width: 30% !important;
+
+}
+.editbtnCol {
+    text-align: left !important;
+
+}
+.conirmTripCol {
+    text-align: right;
+
+}
+.et_btnRow {
+    padding: 8%;
+
+}
+.tret_mainDiv {
+    padding-top: 7%;
+
+}
+.tred_mainText {
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    /* font-family:'Times New Roman', Times, serif; */
+    /* font-style: italic; */
+    /* font-weight: 100; */
+    font-variant-ligatures: normal;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+.nameLabel, .locationLabel, .crowdLabel, .dateLabel, .packageLabel, .activityLabel {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

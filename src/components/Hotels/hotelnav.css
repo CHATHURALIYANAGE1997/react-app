@@ -1,0 +1,35 @@
+.right-side {
+    width: 100%;
+    /* margin-left: 15px; */
+}
+
+.header2 {
+    margin-right: 5px;
+    width: 100%;
+}
+
+.hn-bg {
+    background-color: #43404094 !important;
+    margin-right: 5px;
+    padding: 5px;
+    font-weight: bold;
+    color: #0C0C0C;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
+}
+
+.hn-bg2 {
+    background-color: #43404094 !important;
+    padding: 5px;
+    font-weight: bold;
+    color: #0C0C0C;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: fit-content;
+    cursor: pointer;
+}
+
+.hn-bg:hover, .hn-bg2:hover {
+    background-color: #434040df !important;
+}

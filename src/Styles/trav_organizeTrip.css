@@ -1,0 +1,147 @@
+.formContainer {
+    /* position: fixed; */
+    width: 65%;
+    /* background-color: blueviolet; */
+    padding: 4%;
+    margin: 0 auto;
+    border: 1px solid #b6b6b8 ;
+    border-radius: 4%;text-align: center;
+    padding-top: 2%;
+
+}
+.input-group.has-validation>.dropdown-toggle:nth-last-child(n+4), .input-group.has-validation>.form-floating:nth-last-child(n+3)>.form-control, .input-group.has-validation>.form-floating:nth-last-child(n+3)>.form-select, .input-group.has-validation>:nth-last-child(n+3):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating) {
+    /* border-top-right-radius: 0; */
+    /* border-bottom-right-radius: 0; */
+    border: none;
+    border-radius: 0%;
+
+}
+.form-control {
+    border: none !important;
+    border-radius: 0% !important;
+    /* background-color: brown !important; */
+    border-bottom: 1px solid #ced4da !important;
+    font-size: large;
+    background-color: #f8f9fa !important;
+
+}
+.txtOrganizeTrip {
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    /* font-family:'Times New Roman', Times, serif; */
+    /* font-style: italic; */
+    /* font-weight: 100; */
+    font-variant-ligatures: normal;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+.form-label {
+    margin-bottom: 0% !important;
+    margin-top: 5% !important;
+    /* font-size: 100%; */
+    font-weight: 500;
+    margin-left: 0% !important;
+    text-align: left !important;
+
+}
+/* @media (min-width: 768px) */
+.col-md-4 {
+    text-align: left !important;
+    
+}
+.form-select {
+    border-radius: 0% !important;
+    border: none !important;
+    border-bottom: 1px solid #ced4da !important;
+    background-color: #f8f9fa !important;
+
+}
+.col {
+    color: black;
+    
+}
+.trot_mainDiv {
+    padding-top: 8%;
+
+}
+.trot_mainTextDiv {
+    color: rgb(31, 32, 61);
+    font-size: 40px;
+
+}
+.trot_lablePackagesDiv {
+    background-color: rgb(58, 141, 58);
+    padding-left: 0%;
+
+}
+.trot_dropDown {
+    width: 50%;
+    margin-bottom: 10px;
+    margin-right: 20px !important;
+}
+.proviceDrop {
+    width: 50%;
+    background-color: white !important;
+}
+
+.organize-trip-back {
+    border: 1px solid #276678 !important;
+    color: #276678 !important;
+}
+
+.organize-trip-next {
+    background-color: #276678 !important;
+    color: #F6F5F5 !important;
+}
+
+.organize-trip-next:hover {
+    background-color: #1687A7 !important;
+}
+
+.adults {
+    margin-right: 20px !important;
+}
+
+.organize-optional {
+    text-align: left !important;
+}
+
+.organize-share-guide {
+    text-align: left !important;
+
+}
+.trot_provincesDropDown, .trot_placesDropDown {
+    /* width: 200px; */
+    text-align: center;
+
+}
+.btnSection {
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.trot_backButton :hover {
+    background-color: red !important;
+
+}
+.trot_provinceDropDiv {
+    /* padding-left: 5%; */
+    background-color: fuchsia;
+    width: 50%;
+
+}
+.trot_placeDropDiv {
+    width: 50%;
+
+}
+.trot_lablePackage {
+    /* background-color: gold; */
+    padding: 3%;
+    padding-top: 0%;
+
+}
+.trot_adults {
+    width: 50%;
+}

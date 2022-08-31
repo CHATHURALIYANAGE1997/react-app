@@ -1,0 +1,20 @@
+.nav-bar {
+    width: 100%;
+    display: flex !important;
+    justify-content: right !important;
+}
+
+.top {
+    display: flex;
+    justify-content: right;
+}
+
+
+.navbar-ul {
+    margin-left: auto !important;
+}
+.logo {
+    margin: 5px;
+    width: 50px;
+}
+
